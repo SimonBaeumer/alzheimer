@@ -13,9 +13,16 @@
  
  ## programs
  
- ### stegotoolkit
+  - [peda - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
+  - [pwndbg - Exploit Development and Reverse Engineering with GDB Made Easy](https://github.com/pwndbg/pwndbg)
+  - [gdbinit - Gdbinit for OS X, iOS and others - x86, x86_64 and ARM](https://github.com/gdbinit/Gdbinit)
+  - [pwntools - CTF framework and exploit development library ](https://github.com/Gallopsled/pwntools)
+  - [radare2](https://www.radare.org/n/index.html)
+  - [checksec.sh](http://www.trapkit.de/tools/checksec.html)
  
-Analysis tool for pictures in CTFs etc, [stegotoolkit](https://github.com/DominicBreuker/stego-toolkit).
+ ### stego-toolkit
+ 
+Analysis tool for pictures in CTFs etc, [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit).
  
  ### binwalk
  
