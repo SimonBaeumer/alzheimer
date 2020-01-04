@@ -160,6 +160,10 @@ Accepted
 yes: standard output: Broken pipe
 ```
 
+If you want to provide other inputs:
+
+`$ printf 'yes\nno\n' | ./interactive-command.sh`
+
 The error message is printed because `yes` gets killed by `SIGPIPE` signal. This happens
 if the pipe to `./interactive-command.sh` gets closed but `yes` still wants to write into it.
 
