@@ -32,3 +32,7 @@ $ binwalk Trip_to_Hoi_An.png
  41            0x29            Zlib compressed data, compressed
  2722856       0x298C28        PNG image, 259 x 259, 8-bit/color RGB, non-interlaced
 ```
+
+### Whitepapers
+
+ - [International Journal of PoC - 05/08/2013](https://archive.org/details/Pocorgtfo00)
