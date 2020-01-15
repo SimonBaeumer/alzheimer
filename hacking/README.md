@@ -10,6 +10,12 @@
  - [Juice Shop - Hacking game](https://www2.owasp.org/www-project-juice-shop/)
  - [Damn Vulnerable Web App](http://www.dvwa.co.uk/)
  - [hackthebox](https://www.hackthebox.eu/companies)
+ - [embedded security ctf](https://microcorruption.com/login)
+ 
+ ### crack mes
+ 
+  - [Crack me overview](https://reverseengineering.stackexchange.com/questions/15774/crack-me-material)
+  - [Challenges.re](https://challenges.re/)
  
  ## programs
  
@@ -19,6 +25,7 @@
   - [pwntools - CTF framework and exploit development library ](https://github.com/Gallopsled/pwntools)
   - [radare2](https://www.radare.org/n/index.html)
   - [checksec.sh](http://www.trapkit.de/tools/checksec.html)
+  - [volatility - memory forensic tool](https://github.com/volatilityfoundation/volatility)
  
  ### stego-toolkit
  
