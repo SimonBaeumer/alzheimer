@@ -1,0 +1,7 @@
+# gdb
+
+## Printing stack variables
+
+```
+
+```
