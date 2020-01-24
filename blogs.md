@@ -1,5 +1,11 @@
 # Blogs
 
+## Blogs
+
+ - [null program](https://nullprogram.com/)
+
+## Articles
+
 Just blog posts and videos saved for later reference, sorted by reading date.
 
 - **2018 - August**
