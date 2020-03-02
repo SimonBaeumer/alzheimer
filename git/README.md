@@ -22,3 +22,10 @@ You can find the documentation [here](https://git-scm.com/docs/git-bisect).
 
  - Every commit should compile
  - Commits should be useful, avoid creating hundreds of commits. Take a look at [squashing commits](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git).
+
+### Displaying most changed files
+
+It can be very powerful to get started in a new project and displaying the most changed files at the beginng.
+With this technique it is possible to find the most important components of a system.
+
+`$ git log --format=format: --name-only | egrep -v '^$' | sort | uniq -c | sort -rg | head -10`
