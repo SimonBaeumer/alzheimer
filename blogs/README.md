@@ -8,6 +8,15 @@
 
 Just blog posts and videos saved for later reference, sorted by reading date.
 
+<<<<<<< Updated upstream
+=======
+- **2020 - March**
+    - [Use the git history](https://preslav.me/2020/03/01/use-the-git-history/)
+
+- **2020 - February**
+    - [I want off Mr Golang's wild ride](https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/)
+    
+>>>>>>> Stashed changes
 - **2018 - August**
     - [Object-Oriented Programming is Bad - Video](https://www.youtube.com/watch?v=QM1iUe6IofM)
     
