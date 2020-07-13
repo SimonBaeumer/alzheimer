@@ -1,5 +1,12 @@
 # git
 
+## Trunk-based development
+
+Alternative git workflow to collaborate on a single trunk / branch.
+Easy to use and scale. 
+
+See [trunkbaseddevelopment.com](https://trunkbaseddevelopment.com/).
+
 ## Mark files as executable on Windows
 
 `git update-index --chmod=+x 'path/to/script.sh'`
