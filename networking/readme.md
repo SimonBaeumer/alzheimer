@@ -10,3 +10,9 @@ Example:
 # scan ports 400 to 500 on localhost
 $ nmap -p400-500 localhost
 ```
+
+## TLS
+
+Nice explanation of a TLS connection. 
+
+https://tls.ulfheim.net/
