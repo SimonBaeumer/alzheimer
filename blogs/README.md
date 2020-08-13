@@ -8,17 +8,17 @@
 
 Just blog posts and videos saved for later reference, sorted by reading date.
 
-<<<<<<< Updated upstream
-=======
 - **2020 - March**
     - [Use the git history](https://preslav.me/2020/03/01/use-the-git-history/)
 
 - **2020 - February**
     - [I want off Mr Golang's wild ride](https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/)
     
->>>>>>> Stashed changes
+- **2020 - August**
+ - [Build a full-text search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
+
 - **2018 - August**
-    - [Object-Oriented Programming is Bad - Video](https://www.youtube.com/watch?v=QM1iUe6IofM)
+ - [Object-Oriented Programming is Bad - Video](https://www.youtube.com/watch?v=QM1iUe6IofM)
     
 - **2018 - September**
     - [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt)
