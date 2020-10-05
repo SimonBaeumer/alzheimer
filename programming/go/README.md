@@ -7,6 +7,15 @@
  - [Concurrency in go](https://seancarpenter.io/posts/concurrency_in_go/)
  - [A journey with go](https://medium.com/a-journey-with-go)
  
+### Channels
+
+ - [Go routine leaks, the forgotten sender](https://www.ardanlabs.com/blog/2018/11/goroutine-leaks-the-forgotten-sender.html)
+ - [Never start a goroutine without knowing how to stop it](https://dave.cheney.net/2016/12/22/never-start-a-goroutine-without-knowing-how-it-will-stop)
+ - [Escape Analysis](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-escape-analysis.html)
+ - [Context pattern](https://blog.golang.org/context)
+ - [Behaviour of channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
+ - 
+ 
  ## Data structures
  
  ### Map
