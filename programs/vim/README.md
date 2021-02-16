@@ -10,6 +10,9 @@ syntax verb + noun
  - `c` change (delete and enter insert mode)
  - `crtl+r` redo (undo undo)
  - `j` lines down
+ - `ctrl+w`, `v` split vertically
+ - `term[inal]` open a terminal
+ - `cs` change surroding, i.e. `cs"'`
 
 ## Source code
 
